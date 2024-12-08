@@ -3,7 +3,7 @@
 
 ## Team Members:
 - Justin
-- Kayden(Deleted Code)
+- Kayden
 - Nathen
 - Yuuki
 
